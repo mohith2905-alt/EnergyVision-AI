@@ -1,5 +1,5 @@
-# EnergyVision-AI
-# ⚡ EnergyVision AI — Energy Intelligence Platform
+# ⚡ Energy Consumption Forecasting
+# ⚡ EnerVision AI — Energy Intelligence Platform
 
 > **A data-driven Streamlit application for energy consumption analysis, predictive forecasting, and actionable sustainability optimization across residential and commercial facilities.**
 
@@ -201,6 +201,6 @@ This project is open source. See the repository for licensing details.
 ---
 
 ## 👤 Author
-Mohith K
+Kaniga K
 
-kanix0067— [GitHub Profile](https://github.com/mohith2905-alt/EnergyVision-AI)
+kanix0067— [GitHub Profile](https://github.com/kanix0067)
